@@ -9,8 +9,9 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     colt: "sigma4321",
     chace: "sigma1234",
-    normaluser: "Temp",
-    paiduser: "PAYYUH",
+    freeuser: "free",
+    paiduser: "PAYYUHP",
+    jack: "gyat",
   },
 };
 
