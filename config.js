@@ -10,6 +10,7 @@ const config = {
     colt: "sigma4321",
     chace: "sigma1234",
     normaluser: "Temp",
+    paiduser: "PAYYUH",
   },
 };
 
